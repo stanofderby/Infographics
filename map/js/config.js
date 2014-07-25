@@ -1,7 +1,7 @@
 var config = {};
 
 config.data_file = "data/data.csv";
-config.column_title = "population";
+config.column_title = "Studies";
 
 config.map_height = "400px";
 config.map_width = "800px";

@@ -11,6 +11,7 @@ body {
 #map {
 	position: absolute;
 	width: 800px;
+	top: 0px;
 }
 #info {
 	position: absolute;

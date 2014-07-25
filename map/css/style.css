@@ -12,10 +12,6 @@ body {
 	position: absolute;
 	width: 800px;
 }
-#info {
-	position: absolute;
-	top: 0px;
-}
 #content {
 	position: relative;
 	margin-left: 810px;

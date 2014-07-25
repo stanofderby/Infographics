@@ -104,4 +104,9 @@ var country = svg.selectAll(".country").data(countries);
       .on("mouseout",  function(d,i) {
       });
 
+
+//Format Mouse Hoverover (I hope this goes here)
+d3.select(this).style("stroke","black")
+	       .style("stroke-width","1.2px");
+
 }

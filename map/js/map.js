@@ -110,7 +110,7 @@ d3.select(this).style("stroke","black")
 	       .style("stroke-width","1.2px");
 
 //format mouseout
-//d3.select(this).style("stroke","#666")
-//	       .style("stroke-width","0.4px");
+d3.select(this).style("stroke","#666")
+	       .style("stroke-width","0.4px");
 
 }
